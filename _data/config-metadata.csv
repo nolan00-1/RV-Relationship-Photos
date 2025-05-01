@@ -1,15 +1,16 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+capturedate,Date Captured,
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+latitude,Latitude,
+longitude,Longitude,
 source,Source
 identifier,Source Identifier,,
-type,Type,
+filetype,Type,
 format,Format,
+measurement,Measurement,
+uploaddate,Date Uploaded,
 rights,Rights,
 rightsstatement,Rights Statement,,true
